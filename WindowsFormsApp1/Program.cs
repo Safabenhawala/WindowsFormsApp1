@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
         static void Main()
         {
             //Methode Main 236
+            //Comment to test new branch1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
