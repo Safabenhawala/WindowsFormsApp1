@@ -17,6 +17,7 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
+        //Fonction initial lors de loading 
         private void Form1_Load(object sender, EventArgs e)
         {
             get_Ville();
